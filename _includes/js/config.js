@@ -102,16 +102,40 @@ var siteConfig = {
       "value": "CHE"
     },
     "highlightedFilters": ["taxonKey", "gadmGid", "stateProvince", "publisherKey", "year", "basisOfRecord", "datasetName", "publishingOrg"],
-    "tabs": ["map", "table", "gallery", "datasets", "dashboard"],
-    "availableTableColumns": ["scientificName", "features", "country", "coordinates", "eventDate", "basisOfRecord", "publisher", "catalogNumber",
-                            "recordedBy", "identifiedBy", "recordNumber", "typeStatus", "preparations", "collectionCode", "institutionCode", "institutionKey",
-                            "collectionKey", "locality", "higherGeography", "stateProvince", "year", "establishmentMeans", "iucnRedListCategory", "dataset", "datasetName"],
+    "tabs": ["map", "table", "gallery", "datasets", "dashboard", "download"],
+    "availableTableColumns": [
+      "scientificName",
+      "features",
+      "coordinates",
+      "eventDate",
+      "basisOfRecord",
+      "publisher",
+      "catalogNumber",
+      "recordedBy",
+      "identifiedBy",
+      "recordNumber",
+      "typeStatus",
+      "preparations",
+      "institutionCode",
+      "institutionKey",
+      "collectionKey",
+      "country",
+      "locality",
+      "stateProvince",
+      "year",
+      "establishmentMeans",
+      "iucnRedListCategory",
+      "dataset",
+      "datasetName",
+      "identificationVerificationStatus"
+    ],
     "defaultEnabledTableColumns": ["scientificName", "higherGeography", "country", "year", "establishmentMeans", "iucnRedListCategory", "catalogNumber", "institutionKey", "dataset", "datasetName"],
     "mapSettings": {
       "enabled": true,
       "lat": 46.801111,
       "lng": 8.626667,
-      "zoom": 7.877
+      "zoom": 7.877,
+      "userLocationEnabled": true
     }
   },
   "datasetSearch": {
