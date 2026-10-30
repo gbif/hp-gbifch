@@ -9,6 +9,7 @@ background: https://biology27.ch/biology27-artwork.jpg
 preTitle: 18-19 février 2027
 cta:
 - text: Official webpage
+  isPrimary: true
   href: https://biology27.ch/
 ---
 # La plus grande conférence de biologie organique en Suisse
