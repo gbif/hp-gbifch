@@ -1,0 +1,20 @@
+---
+#excludeFromArchive: true
+klass: "newspost"
+title:  "Biology27"
+date:   2026-10-30
+categories: [Annonces, Conferences]
+lang-ref: Bio27
+background: https://biology27.ch/biology27-artwork.jpg
+preTitle: 18-19 février 2027
+cta:
+- text: Official webpage
+  href: https://biology27.ch/
+---
+# La plus grande conférence de biologie organique en Suisse
+
+L'édition 2027 de Biology27 se passera à Berne, Centre universitaire vonRoll, bâtiment 6, [Fabrikstrasse 6, 3012 Berne](https://www.google.com/maps/search/?api=1&query=Fabrikstrasse+6,+3012+Bern,+Switzerland){:target="_blank"}
+
+Biology27 offre une plateforme d’échange entre étudiants, chercheurs et professeurs à travers les institutions scientifiques suisses, les groupes de recherche et les domaines thématiques. C’est également la réunion annuelle conjointe des sociétés suisses de zoologie, botanique et systématique.
+
+[Programme 2027](https://biology27.ch/#programme){: .button .is-primary target="_blank"}
