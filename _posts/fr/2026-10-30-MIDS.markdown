@@ -23,9 +23,8 @@ MIDS is a new standard, and this is its first public review.
 
 The public review is open to everyone, and we encourage all community members to participate.
 
-[comment on the issue tracker](https://github.com/tdwg/mids/issues){: .button .is-primary target="_blank"} (Preferred method)
-
-[MIDS Community Feedback Workbook](https://docs.google.com/spreadsheets/d/16nMgILgR6a4pkIRDR17n6WNvqCrnQbmprRSHbAxZGP8/edit?gid=801859759#gid=801859759){: .button target="_blank"} (Alternative)
+[Issue tracker](https://github.com/tdwg/mids/issues){: .button .is-primary target="_blank"}
+[MIDS Community Feedback Workbook](https://docs.google.com/spreadsheets/d/16nMgILgR6a4pkIRDR17n6WNvqCrnQbmprRSHbAxZGP8/edit?gid=801859759#gid=801859759){: .button target="_blank"}
 
 {: .box }
 All feedback is welcome, including agreement — telling us that an entry is correct as written is as useful as proposing a change. All comments will be public and archived following the public review.
