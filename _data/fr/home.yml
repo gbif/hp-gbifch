@@ -5,10 +5,12 @@ blank:
       .hero-swiss-node {
         position: relative;
         margin: 0;
-        min-height: 600px;
-        aspect-ratio: 16 / 9;
+        width: 100%;
+        aspect-ratio: 4250 / 2220;          /* ratio exact de l'image recadrée */
+        max-height: calc(100vh - 80px);     /* ne dépasse jamais l'écran (80px ≈ hauteur du menu, à ajuster) */
+        background-color: #fdf9f6;          /* couleur du fond de l'illustration */
         background-image: url('{{ site.data.images.home.src }}');
-        background-size: cover;
+        background-size: contain;           /* toute l'image est toujours visible */
         background-position: center;
         background-repeat: no-repeat;
         display: flex;
@@ -17,8 +19,8 @@ blank:
         color: white;
       }
       .hero-swiss-node .hero-content {
-        width: 35%;
-        min-width: 280px;
+        width: 25%;
+        min-width: 260px;
         box-sizing: border-box;
         padding: 40px;
         text-align: left;
@@ -72,6 +74,19 @@ blank:
       }
       .hero-swiss-node .image-credit:hover .credit-text {
         display: block;
+      }
+      @media (max-width: 700px) {
+        .hero-swiss-node {
+          aspect-ratio: auto;
+          max-height: none;
+          flex-direction: column;
+          align-items: stretch;
+          background-size: 100% auto;
+          background-position: center bottom;
+          padding-bottom: calc(100% * 2220 / 4250);  /* réserve la hauteur de l'image sous le titre */
+        }
+        .hero-swiss-node .hero-content { width: 100%; min-width: 0; padding: 24px; }
+        .hero-swiss-node h1 { font-size: 32px; }
       }
     </style>
     <div class="hero-swiss-node">
