@@ -9,6 +9,7 @@ background: https://mcusercontent.com/a483b43cb36d0d60edb3a266b/images/93821005-
 preTitle: october 2026
 cta:
 - text: Official webpage
+  isPrimary: true
   href: https://mailchi.mp/gbif/latest-headlines-from-gbif-12840442?e=8e66e52c7e
 ---
 # 33rd meeting of the GBIF Governing Board
