@@ -9,6 +9,7 @@ background: /assets/images/posts/2026-08-12-DarwinCorePublicReview.png
 preTitle: 12 août 2026
 cta:
 - text: Official webpage
+  isPrimary: true
   href: https://dwc.tdwg.org/public_review/
 ---
 # 1 Introduction
