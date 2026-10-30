@@ -2,7 +2,7 @@
 #excludeFromArchive: true
 klass: "newspost"
 title:  "GBIF newsletter October 2026"
-date:   2026-10
+date:   2026-10-30
 categories: [Annonces, Newsletter, International]
 lang-ref: gbif-newsletter-oct2026
 background: https://mcusercontent.com/a483b43cb36d0d60edb3a266b/images/93821005-c8ef-7c0a-c078-7ce97ea155bc.jpg
