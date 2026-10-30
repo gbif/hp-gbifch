@@ -1,9 +1,10 @@
 ---
+excludeFromArchive: true
 klass: "newspost"
 title:  "Revue publique Darwin Core - juillet 2026"
 date:   2026-08-12
 categories: [Annonces, Standards]
-lang-ref: fr
+lang-ref: Dwc-pubRev-2026
 background: /assets/images/posts/2026-08-12-DarwinCorePublicReview.png
 preTitle: 12 août 2026
 cta:
