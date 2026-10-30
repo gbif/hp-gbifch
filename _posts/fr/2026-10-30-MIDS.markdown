@@ -9,6 +9,7 @@ background: https://brand-assets.mailchimp.com/01KMY44YJ7EAG2BFFXHP2P1MC3.png
 preTitle: 5 octobre au 4 décembre 2026
 cta:
 - text: Official webpage
+  isPrimary: true
   href: https://mailchi.mp/tdwg.org/tdwg-working-sessions-2026-register-now-8342058?e=cdb051a6ed
 ---
 # Public review of the Minimum Information about a Digital Specimen (MIDS) standard
