@@ -1,9 +1,10 @@
 ---
+excludeFromArchive: true
 klass: "newspost"
 title:  "TDWG Annual Conference 2026"
 date:   2026-08-13
 categories: [Annonces, International]
-lang-ref: fr
+lang-ref: tdwg-conf-2026
 background: /assets/images/posts/2026-08-13-TDWG.png
 preTitle: 21-25 septembre 2026
 cta:
