@@ -9,6 +9,7 @@ background: https://portal-cdn.scnat.ch/asset/7ea195ef-1118-536f-b7f0-459d870bc7
 preTitle: 1er septembre 2026
 cta:
 - text: Official webpage
+  isPrimary: true
   href: https://swisscollnet.scnat.ch/fr/exchange/workshops/uuid/i/033c7a93-35ec-5f81-856a-1473cb89551c-SwissCollNet_Conference_2026
 ---
 La conférence annuelle de SwissCollNet aura lieu le mardi 1er septembre 2026 à l'UniS de Berne. Alors que l'initiative SwissCollNet touche à sa fin, cette conférence finale sera l'occasion de revenir sur ses réalisations, de célébrer ses succès et d'envisager l'avenir du réseau.
